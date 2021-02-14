@@ -10,7 +10,7 @@
 * [Inspiration](#inspiration)
 
 ## General info
-
+Big dataset - 300k images handled with PyTorchdataset. CRNN trained using CTC loss.
 
 ## Technologies
 * Python - version 3.7.3
